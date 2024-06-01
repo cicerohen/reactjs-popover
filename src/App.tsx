@@ -45,7 +45,7 @@ export const App = () => {
           title="Click here to sign in"
           ref={ref}
           onClick={onOpen}
-          className="bg-indigo-600 hover:bg-indigo-700 text-lg text-white uppercase rounded-md inline-flex items-center justify-center py-4 px-8 mt-6"
+          className="bg-red-600 hover:bg-red-700 text-lg text-white uppercase rounded-md inline-flex items-center justify-center py-4 px-8 mt-6"
         >
           Sign In
         </button>
